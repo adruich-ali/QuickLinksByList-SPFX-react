@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "quick-links-by-list-client-side-solution",
+    "id": "ba9c3cb3-1662-44b2-ab21-615daff7cc7e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "quick-links-by-list description"
+      },
+      "longDescription": {
+        "default": "quick-links-by-list description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "quick-links-by-list Feature",
+        "description": "The feature that activates elements of the quick-links-by-list solution.",
+        "id": "bfa98e30-9787-4a27-8f32-34b04f7692c1",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/quick-links-by-list.sppkg"
+  }
+}
